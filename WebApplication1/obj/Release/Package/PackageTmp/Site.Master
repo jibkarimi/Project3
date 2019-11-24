@@ -46,14 +46,18 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">
-                        <img src="images/download.png" width="90" class="Logo"/></a>
+
+                      <%--Logo Image--%>
+                    <asp:Image ID="Image1" width="65" CssClass="Logo" runat="server" imageUrl="~/images/download.png"/></a>
                 </div>
+
+                <%--Nav Bar--%>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/Artist">Artist</a></li>
-                        <li><a runat="server" href="~/Borrower">Borrower</a></li>
-                        <li><a runat="server" href="~/Disk">Disk</a></li>
+                        <li><a runat="server" href="~/Maintenance/Artist">Artist</a></li>
+                        <li><a runat="server" href="~/Maintenance/Borrower">Borrower</a></li>
+                        <li><a runat="server" href="~/Maintenance/Disk">Disk</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
