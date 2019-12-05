@@ -16,7 +16,7 @@
             <p class="lead">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu
             </p>
-            <p><a href="Artist.aspx" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+            <p><a href="Maintenance/Artist.aspx" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
         </div>
 
         <div class="text-center defaultBox">
@@ -26,7 +26,7 @@
                     NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="Disk.aspx">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="Maintenance/Disk.aspx">Learn more &raquo;</a>
                 </p>
             </div>
             <div class="col-md-5" id="LineAround">
@@ -35,7 +35,7 @@
                     You can easily find a web hosting company that offers the right mix of features and price for your applica. reprehenderit in voluptate.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="Borrower.aspx">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="Maintenance/Borrower.aspx">Learn more &raquo;</a>
                 </p>
             </div>
         </div>
