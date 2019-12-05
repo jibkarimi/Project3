@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>http://localhost/Project04</_PublishTargetUrl>
+    <_PublishTargetUrl>http://localhost/Project05</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="About.aspx">
@@ -286,10 +286,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/22/2013 09:21:56</publishTime>
     </File>
     <File Include="bin/WebApplication1.dll">
-      <publishTime>11/24/2019 11:32:04</publishTime>
+      <publishTime>12/04/2019 18:50:02</publishTime>
     </File>
     <File Include="bin/WebApplication1.pdb">
-      <publishTime>11/24/2019 11:32:04</publishTime>
+      <publishTime>12/04/2019 18:50:02</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 12:57:34</publishTime>
@@ -365,6 +365,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Maintenance/Borrower.aspx">
       <publishTime>11/24/2019 10:55:05</publishTime>
+    </File>
+    <File Include="Maintenance/checkout.aspx">
+      <publishTime>12/04/2019 18:29:06</publishTime>
     </File>
     <File Include="Maintenance/Disk.aspx">
       <publishTime>11/24/2019 10:55:05</publishTime>
@@ -463,7 +466,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/09/2019 16:57:44</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>11/24/2019 10:55:05</publishTime>
+      <publishTime>12/04/2019 15:18:29</publishTime>
     </File>
     <File Include="Site.Mobile.Master">
       <publishTime>11/09/2019 16:57:45</publishTime>
